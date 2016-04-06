@@ -1,4 +1,11 @@
-def add(num1, num2):
+""" Functions for using calculator.pyc
+
+Includes several operations: add, substract, multiply, divide, square, cube, power and mod.
+"""
+
+
+
+def add(num1, num2): 
     return num1 + num2
 
 def subtract(num1, num2):
